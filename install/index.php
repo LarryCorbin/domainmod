@@ -18,6 +18,7 @@
 <?php
 include("../_includes/start-session.inc.php");
 include("../_includes/config.inc.php");
+include("../_includes/initconfig.inc.php");
 include("../_includes/database.inc.php");
 include("../_includes/software.inc.php");
 include("../_includes/system/installation-check.inc.php");
